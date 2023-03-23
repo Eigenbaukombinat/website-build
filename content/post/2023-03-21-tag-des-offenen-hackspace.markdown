@@ -11,8 +11,7 @@ categories:
 
 ---
 
-Es ist wieder soweit! Nach langer Durststrecke öffnen wir wieder unseren Hackspace am 25. März 2023. Am Samstag von 14 - open end Uhr öffnen wir die Türen, und zeigen welche Möglichkeiten 
-für alle Mitglieder im Eigenbaukombinat zur Verfügung stehen! Ein 'Blick in andere Bereich ist natürlich auch möglich.
+Es ist wieder soweit! Am Samstag, 25. März 2023 von 14 bis (mindestens) 23:42 Uhr öffnen wir als Chaostreff Halle und Hackspace im Eigenbaukombinat die Türen und beteiligen uns damit zusammen mit fast 60(!) weiteren Hackspaces im CCC-Umfeld am 10. Internationalen Tag des offenen Hackspace. Neben allerlei schönen elektronischen Computerdingen könnt ihr euch natürlich auch gerne zeigen lassen, welche Möglichkeiten im ganzen Eigenbaukombinat zur Verfügung stehen! Für das leibliche Wohl ist gesorgt, Mate-Vorrat sagt: Ja!
 
 <!-- more -->
 
@@ -24,7 +23,7 @@ für alle Mitglieder im Eigenbaukombinat zur Verfügung stehen! Ein 'Blick in an
 {{< /gallery >}}
 
 
-Wir beteiligen uns am internationalen Tags des offenen Hackspaces: https://events.ccc.de/2023/03/15/international-open-hackspace-day/
+Hier noch die Ankündigung des Chaos Computer Club (von: https://events.ccc.de/2023/03/15/international-open-hackspace-day/)
 
 "Zum zehnjährigen Jubiläum des Internationalen Tags des offenen Hackspaces lädt der Chaos Computer Club (CCC) am Samstag, 25. März 2023, ein, auch hierzulande mit echten Nerds und Hackerinnen zusammenzukommen und dabei zu sein, wenn wir mit Euch gemeinsam Hardware und Hackingmythen zerlegen. Wer sich selbst ein Bild machen will, sollte vorbeikommen.
 
