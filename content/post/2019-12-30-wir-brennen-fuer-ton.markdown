@@ -7,6 +7,7 @@ type: post
 url: /wir-brennen-fuer-ton/
 categories:
 - Fertige Projekte
+- Projekt-keramik
 tags:
 - Keramik
 ---

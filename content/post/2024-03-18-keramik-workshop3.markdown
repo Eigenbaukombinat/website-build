@@ -7,6 +7,7 @@ type: post
 url: /keramik-workshop-03-2024/
 categories:
   - Veranstaltungen
+  - Projekt-Keramik
 tags:
 - Veranstaltung
 - Keramik

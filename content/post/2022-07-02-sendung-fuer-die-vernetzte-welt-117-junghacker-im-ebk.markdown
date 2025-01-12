@@ -9,6 +9,7 @@ categories:
 - JUNGHACKER
 - Radio
 - Veranstaltungen
+- Projekt-junghacker
 tags:
 - Junghacker
 - Radio

@@ -14,7 +14,6 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 enableRobotsTXT = "true"
 
-
 paginate = 5
 
 [markup.goldmark.renderer]
@@ -147,7 +146,7 @@ unsafe= true
     url = "workshop/"
     weight = 4
     parent = "uberuns"
-
+    
 #[[languages.en.menu.main]]
 #    name = "matrix"
 #    url = "/unser-neuer-chat-und-nachrichtenserver/"
@@ -277,6 +276,24 @@ unsafe= true
     url = "/werkstatt/"
     weight = 4
     parent = "uberuns"
+   
+[[menu.main]]
+    name = "Keramik Workshops"
+    url = "/keramikworkshops/"
+    weight = 1
+    parent = "projekte"
+    
+[[menu.main]]
+    name = "Jugendworkshops"
+    url = "/jugendworkshops/"
+    weight = 2
+    parent = "projekte"
+    
+[[menu.main]]
+    name = "Junghacker"
+    url = "/junghacker/"
+    weight = 3
+    parent = "projekte"
 
 [[menu.main]]
     name = "Matrix"

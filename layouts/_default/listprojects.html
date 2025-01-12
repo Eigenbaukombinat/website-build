@@ -1,0 +1,55 @@
+{{ define "header" }}
+  <header class="header-section ">
+    <div class="intro-header no-img">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="page-heading">
+              <h1>{{ if .Data.Singular }}#{{ end }}{{ .Title }}</h1>
+              <hr class="small">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+{{ end }}
+
+{{ define "main" }}
+  <div class="container" role="main">
+    <div class="row"> 
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        {{ with .Content }}
+          <div>
+            {{.}}
+          </div>
+        {{end}}
+        <div class="posts-list">
+            {{ $p := where site.RegularPages "Type" "post" }}
+            {{ $p = where $p "Params.categories" "intersect" (slice .Params.Project) }}
+            {{ $p = where $p "Params.unlisted" "ne" true }}
+            {{ range $p }}
+            {{ if ne .Title "Posts" }} 
+              <div class="post-list-item">
+                <div class="post-title">
+                  <a href="{{ .Permalink }}">
+                    {{ .Title }}
+                  </a>
+                </div>
+                <div class="post-date">
+                  {{ default (i18n "dateFormat") .Site.Params.dateformat | .Date.Format }}
+                </div>
+                {{ if .Params.subtitle }}
+                  <div class="post-subtitle">
+                    {{ .Params.subtitle }}
+                  </div>
+                {{ end }}
+              </div>
+              <div style="clear:both;"></div>
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
+     </div>
+   </div>  
+{{end}}

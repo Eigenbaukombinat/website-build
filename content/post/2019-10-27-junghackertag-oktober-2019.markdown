@@ -7,6 +7,7 @@ type: post
 url: /junghackertag-oktober-2019/
 categories:
 - Veranstaltungen
+- Projekt-junghacker
 ---
 
 

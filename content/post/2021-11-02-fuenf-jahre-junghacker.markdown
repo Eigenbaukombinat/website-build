@@ -8,6 +8,7 @@ url: /fuenf-jahre-junghacker/
 categories:
 - Projekte
 - Veranstaltungen
+- Projekt-junghacker
 tags:
 - junghacker
 - hackspace

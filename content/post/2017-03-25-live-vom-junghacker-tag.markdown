@@ -8,6 +8,7 @@ url: /live-vom-junghacker-tag/
 categories:
 - JUNGHACKER
 - Veranstaltungen
+- Projekt-junghacker
 tags:
 - Junghacker
 ---

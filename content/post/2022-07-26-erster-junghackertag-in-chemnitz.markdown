@@ -8,6 +8,7 @@ url: /erster-junghackertag-in-chemnitz/
 categories:
 - JUNGHACKER
 - Veranstaltungen
+- Projekt-junghacker
 tags:
 - Junghacker
 

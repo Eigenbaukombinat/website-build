@@ -4,12 +4,13 @@ date: 2024-09-10 20:00:00+00:00
 draft: false
 title: 'Jugendworkshops - von Hackerin zu Hackerin'
 type: post
-url: /jugendworkshops/
+url: /vhzh-kickoff/
 categories:
 - Veranstaltungen
+- Projekt-junghackerin
 tags:
 - Veranstaltung
-- junghacker
+- junghackerin
 
 ---
 

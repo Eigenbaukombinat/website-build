@@ -8,6 +8,7 @@ url: /junghackertag-im-november-2019/
 categories:
 - JUNGHACKER
 - Veranstaltungen
+- Projekt-junghacker
 ---
 
 

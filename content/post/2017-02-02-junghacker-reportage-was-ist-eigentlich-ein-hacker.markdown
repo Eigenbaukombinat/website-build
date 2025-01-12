@@ -8,6 +8,7 @@ url: /junghacker-reportage-was-ist-eigentlich-ein-hacker/
 categories:
 - JUNGHACKER
 - Veranstaltungen
+- Projekt-junghacker
 tags:
 - Junghacker
 ---
