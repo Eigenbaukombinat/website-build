@@ -25,8 +25,8 @@ Wir möchten euch erstmalig in unserem Makespace, Hackspace und Mitmachwerkstatt
 **Wann?** 2025-04-11T19:00+02:00 (MESZ) bis 2025-04-13T14:00+02:00 (MESZ)  
 **Wo?** Eigenbaukombinat Halle (Saale) e.V., Landsbergerstr. 3, 06112 Halle (Saale)  
 **Kontakt?!** Kontakt@Eigenbaukombinat.de oder im Matrix unter #Hackspace:matrix.eigenbaukombinat.de  
-**Mithelfen?** kommt bald!  
-**Tickets!** kommt bald!  
+**Mithelfen?** [**Kontakt?!**](kontakt@eigenbaukombinat.de) oder im Matrix unter #Hackspace:matrix.eigenbaukombinat.de   
+**Tickets!** https://tickets.eigenbaukombinat.de/ebk/HaGeWe/  
  
 Bleibt auf dem Laufenden!
 Blog -> https://eigenbaukombinat.de/hagewe
