@@ -1,0 +1,25 @@
+---
+author: falk-m
+date: 2025-08-26 18:00:00+00:00
+draft: false
+title: 'Türen auf! Maus Türöffner Tag 2025'
+type: post
+url: /maus-2025/
+categories:
+- Veranstaltungen
+tags:
+- Veranstaltung
+---
+
+Hallo Maus-Fan,
+
+im Eigenbaukombinat Halle (Saale) geht es heiß her zum Maus-Türöffner-Tag am **03.10.2025**.
+**Ab 12 Uhr** mittags glühen die Lötkolben. Wir wollen zusammen mit euch Löt-Bausätze des Elefanten zum Leuchten bringen.
+**Bis 17 Uhr** steht euch das EBK in der Landsberger Straße 3 offen. Die großen Maus-Fans können einen Kaffee trinken und sich bei einer Führung die Maschinen im EBK zeigen lassen. Die Bausätze sind kostenfrei, wir freuen uns aber trotzdem über eine kleine Spende. Schickt bitte eine E-Mail kurz und knapp an **veranstaltungen@eigenbaukombinat.de**, wenn ihr uns besuchen wollt. Dies erleichtert uns die Planung.
+
+{{< gallery caption-effect="fade" >}}
+{{< figure link="/wp-content/uploads/2025/08/maus.png" >}}
+{{< figure link="/wp-content/uploads/2025/08/elefant-an-pin.png" >}}
+{{< /gallery >}}
+
+(Bild-Quellen: https://www.wdrmaus.de/ und https://wiki.blinkyparts.com/)
