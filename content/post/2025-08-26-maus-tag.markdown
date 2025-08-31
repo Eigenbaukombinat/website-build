@@ -19,7 +19,7 @@ im Eigenbaukombinat Halle (Saale) geht es heiß her zum Maus-Türöffner-Tag am 
 
 {{< gallery caption-effect="fade" >}}
 {{< figure link="/wp-content/uploads/2025/08/maus.png" >}}
-{{< figure link="/wp-content/uploads/2025/08/elefant-an-pin.png" >}}
+{{< figure link="/wp-content/uploads/2025/08/elefant-an-pin.jpg" >}}
 {{< /gallery >}}
 
 (Bild-Quellen: https://www.wdrmaus.de/ und https://wiki.blinkyparts.com/)
