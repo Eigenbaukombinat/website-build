@@ -1,0 +1,75 @@
+name: Build hugo site
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+  workflow_dispatch:
+
+jobs:
+  # Build job
+  build:
+    runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: 0.88.1
+      HUGO_CHECKSUM: 2d5f5dc3c1041f38e690f2a2c876d1658fbfdf1a327565f0167b3f0853798fb2
+    steps:
+      - name: Download Hugo CLI
+        run: |
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.deb 
+      - name: Verify Hugo checksum
+        run: echo "${HUGO_CHECKSUM}  ${{ runner.temp }}/hugo.deb" | sha256sum --check
+      - name: Install Hugo
+        run: sudo dpkg -i ${{ runner.temp }}/hugo.deb
+      - name: Checkout
+        uses: actions/checkout@v5
+      - name: Build with Hugo
+        env:
+          HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
+          HUGO_ENVIRONMENT: production
+        run: |
+          hugo \
+            --minify \
+            --gc
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: hugo-site
+          path: ./public
+
+  release:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Download Hugo site artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: hugo-site
+          path: ./public
+      - name: Archive Hugo site
+        run: |
+          tar -czf ./hugo-site.tar.gz ./public
+      - name: Get current date
+        id: date
+        run: |
+          echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+          echo "time=$(date +'%H:%M:%S')" >> $GITHUB_OUTPUT
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: v${{ github.run_number }} ${{ steps.date.outputs.date }} ${{ steps.date.outputs.time }}
+          release_name: v${{ github.run_number }} ${{ steps.date.outputs.date }} ${{ steps.date.outputs.time }}
+          draft: true
+          prerelease: true
+      - name: Upload Release Asset
+        id: upload-release-asset 
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
+          asset_path: ./hugo-site.tar.gz
+          asset_name: hugo-site.tar.gz
+          asset_content_type: application/tar+gzip
