@@ -28,3 +28,5 @@ Aus Sicht des Vereins war der Tag ein voller Erfolg, der Lust auf weitere Aktion
 {{< figure link="/wp-content/uploads/2025/10/elefant2.jpg" >}}
 {{< figure link="/wp-content/uploads/2025/10/elefant3.jpg" >}}
 {{< /gallery >}}
+
+(Text: Maria; Bild-Quellen: @M@nerdculture.de, Maria, Falk)
