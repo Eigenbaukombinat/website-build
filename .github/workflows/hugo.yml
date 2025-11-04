@@ -39,7 +39,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     needs: build
-    #if: github.ref == 'refs/heads/master'
+    if: github.ref == 'refs/heads/master'
     steps:
       - name: Download Hugo site artifact
         uses: actions/download-artifact@v5
@@ -51,9 +51,9 @@ jobs:
           sudo apt-get -y install rclone
       - name: "obfuscate password for rclone"
         run: |
-          RCLONE_PASSWORD=$(echo ${{ secrets.WEBDAV_PASS}} | rclone obscure -)
-          echo "::add-mask::$RCLONE_PASSWORD"
-          echo "RCLONE_WEBDAV_PASS=$RCLONE_PASSWORD" >> "$GITHUB_ENV"
+          WEBDAV_PASSWORD=$(echo ${{ secrets.WEBDAV_PASS}} | rclone obscure -)
+          echo "::add-mask::$WEBDAV_PASSWORD"
+          echo "RCLONE_WEBDAV_PASS=$WEBDAV_PASSWORD" >> "$GITHUB_ENV"
       - name: "sync to target"
         run: "rclone sync ./hugo-site :webdav,env:www.eigenbaukombinat.de -v"
         env:
