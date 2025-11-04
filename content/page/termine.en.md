@@ -15,5 +15,6 @@ json = json + '<tr><td>' + resp[i].startdate + '</td><td>' + resp[i].starttime +
 
   };
   jQuery('#termin').html('<span style="color:white; padding:3px 5px 3px 5px; border-radius:4px; display:inline-block;"><span id="termin"><table cellspacing="0" cellpadding="0" border="0">' + json + '</table></span></span>');
+});
 </script>
 
