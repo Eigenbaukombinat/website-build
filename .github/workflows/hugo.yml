@@ -56,3 +56,4 @@ jobs:
         env:
           RCLONE_WEBDAV_URL: "https://dav.eigenbaukombinat.de"
           RCLONE_WEBDAV_USER: "github"
+          RCLONE_WEBDAV_PACER_MIN_SLEEP: "50ms"
