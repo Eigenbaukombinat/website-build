@@ -15,7 +15,7 @@ jobs:
     steps:
       - name: Download Hugo CLI
         run: |
-          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.deb 
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.deb
       - name: Verify Hugo checksum
         run: echo "${HUGO_CHECKSUM}  ${{ runner.temp }}/hugo.deb" | sha256sum --check
       - name: Install Hugo
@@ -55,7 +55,7 @@ jobs:
           echo "::add-mask::$WEBDAV_PASSWORD"
           echo "RCLONE_WEBDAV_PASS=$WEBDAV_PASSWORD" >> "$GITHUB_ENV"
       - name: "sync to target"
-        run: "rclone sync ./hugo-site :webdav,env:www.eigenbaukombinat.de -v"
+        run: "rclone sync ./hugo-site :webdav,env:eigenbaukombinat.de -v"
         env:
           RCLONE_WEBDAV_URL: "https://dav.eigenbaukombinat.de"
           RCLONE_WEBDAV_USER: "github"
