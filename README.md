@@ -49,7 +49,13 @@ Den Editor könnt ihr mit dem Druck auf die Punkt-Taste[.] oder über den [Link]
         1. die Geänderte Datei mit dem Plus[+] hinzufügen
         1. Als Nachricht in wenigen worten schreiben was zu getan hast
         1. `Commit und Push` klicken
-    
+
     Solltest du noch nicht zufrieden sein kannst du jederzeit Änderungen machen und nochmal speichern.
-    
+
     Aktuell musst du dann noch jemanden bescheid sagen damit es auch auf der Webseite erscheint.
+
+
+### Deployment
+
+Sobald der Branch nach master gemerged worden ist, sorgt eine Github-Action
+dafür, dass die Website gebaut und auf den EBK-Server kopiert wird.
