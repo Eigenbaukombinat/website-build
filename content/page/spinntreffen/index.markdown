@@ -21,18 +21,9 @@ Für alle Wollebegeisterten mit oder ohne Spinnrad - wir treffen uns einmal im M
 
 Inspirationen aus vergangenem Workshop: https://eigenbaukombinat.de/spinnerei-im-kombinat/
 
-
-### Termin
-
-Jeden dritten Freitag im Monat ab 17:00 Uhr.
-
-### Dauer
-
-Etwa 2 Stunden.
-
 ### Teilnehmen
 
-* ohne Anmeldung
+* bei Interesse nnmelden
 * Anzahl unbeschränkt
 * offen für Gäste
 
