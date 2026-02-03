@@ -23,7 +23,7 @@ Inspirationen aus vergangenem Workshop: https://eigenbaukombinat.de/spinnerei-im
 
 ### Teilnehmen
 
-* bei Interesse nnmelden
+* bei Interesse anmelden
 * Anzahl unbeschränkt
 * offen für Gäste
 
