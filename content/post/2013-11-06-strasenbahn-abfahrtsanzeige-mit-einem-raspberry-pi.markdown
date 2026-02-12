@@ -21,7 +21,7 @@ Jede Minute werden von der Webseite des [NASA](https://nasa.de/) (gemeint ist hi
 
 Wie man als leidgeprüfter Bahnfahrer weiß, sind außerdem die Daten bei größeren Störungen nicht zu gebrauchen - da die Anzeigen der HAVAG in solchen Fällen auch nur Mist anzeigen, ist das wohl ein Fall von "garbage in, garbage out".
 
-Das Programm läuft auf einem [Raspberry Pi](https://www.raspberrypi.org/), einem Einplatinencomputer, der für etwa 35 Euro zu haben ist. Als Betriebssystem habe ich [Raspbian](https://www.raspbian.org/) gewählt, ein Debian-Derivat, das auf den Raspberry Pi zugeschnitten ist.
+Das Programm läuft auf einem [Raspberry Pi](https://www.raspberrypi.org/), einem Einplatinencomputer, der für etwa 35 Euro zu haben ist. Als Betriebssystem habe ich [Raspbian](https://www.raspberrypi.com/software/) gewählt, ein Debian-Derivat, das auf den Raspberry Pi zugeschnitten ist.
 
 [![raspi](/wp-content/uploads/2013/11/raspi-300x251.jpg)
 ](/wp-content/uploads/2013/11/raspi.jpg).

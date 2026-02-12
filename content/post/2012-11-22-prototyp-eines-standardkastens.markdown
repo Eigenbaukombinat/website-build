@@ -18,7 +18,7 @@ Zunächst wurde die Spezifikation festgelegt. Ein Standardkasten hat eine Höhe 
 [![standardkastenplan](/wp-content/uploads/2013/02/standardkastenplan-300x142.png)
 ](/wp-content/uploads/2013/02/standardkastenplan.png)
 
-Hier die Teile. Der Standardkasten wird durch [Lamello-Verbinder](https://www.lamello.de/produkte/holzverbindungs-system.html) zusammengehalten; die notwendigen Nuten sind bereits eingefräst. Auch die Nut für die Rückwand wurde mit Hilfe der Lamello-Nutfräsmaschine hergestellt. Da die Maschine konstruktionsbedingt an den Ecken nicht so hoch fräst, musste die Rückwand mit Hilfe der Tellerschleifmaschine an den Ecken abgerundet werden.
+Hier die Teile. Der Standardkasten wird durch [Lamello-Verbinder](https://lamello.com/de/produkte/lamello-system) zusammengehalten; die notwendigen Nuten sind bereits eingefräst. Auch die Nut für die Rückwand wurde mit Hilfe der Lamello-Nutfräsmaschine hergestellt. Da die Maschine konstruktionsbedingt an den Ecken nicht so hoch fräst, musste die Rückwand mit Hilfe der Tellerschleifmaschine an den Ecken abgerundet werden.
 
 [![1](/wp-content/uploads/2013/02/1-300x225.jpg)
 ](/wp-content/uploads/2013/02/1.jpg)

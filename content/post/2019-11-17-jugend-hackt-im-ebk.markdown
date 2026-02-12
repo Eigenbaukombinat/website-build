@@ -43,7 +43,7 @@ Unterstützt wurden die Teilnehmerinnen und Teilnehmer von 15 Mentorinnen und Me
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/11/Abschlussbericht_Jugend-hackt-Halle-2019-1-.jpg" >}}
+{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/10/Jugend-hackt-Halle-2019-1-1836x1224.jpg" >}}
 {{< /gallery >}}
 
 Brainstorming am Freitag (CC BY 2.0, Jugend hackt, Foto: Manuel Schmuck)
@@ -79,7 +79,7 @@ Die Gruppe „[PlantGO](https://gitlab.com/jugendhackt/plant-go)“ entwickelte 
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/11/Abschlussbericht_Jugend-hackt-Halle-2019-5-.jpg" >}}
+{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/10/Jugend-hackt-Halle-2019-5-1430x953.jpg" >}}
 {{< /gallery >}}
 Projektgruppe ChangeBox (CC BY 4.0, Jugend hackt, Foto: Manuel Schmuck)
 
@@ -114,7 +114,7 @@ Darüber hinaus haben die Jugendlichen viele Ideen zu weiteren Themen umgesetzt.
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/11/Abschlussbericht_Jugend-hackt-Halle-2019-2-.jpg" >}}
+{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/10/Jugend-hackt-Halle-2019-2-1430x953.jpg" >}}
 {{< /gallery >}}
 Projektgruppe Scook (CC BY 2.0, Jugend hackt, Foto: Manuel Schmuck)
 
@@ -141,7 +141,7 @@ Mit dem [Sticker-Verdichter](https://www.youtube.com/watch?v=YD3Sp2Qo4qI&list=PL
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/11/Abschlussbericht_Jugend-hackt-Halle-2019-4-.jpg" >}}
+{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/10/Jugend-hackt-Halle-2019-4-1836x1224.jpg" >}}
 {{< /gallery >}}
 Projektgruppe Sticker-Verdichter (CC BY 2.0, Jugend hackt, Foto: Manuel Schmuck)
 
@@ -238,7 +238,7 @@ Wir freuen uns, dass wir mit Jugend hackt das Eigenbaukombinat wieder für ein W
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/11/Jugend-hackt-Halle.gif" >}}
+{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/10/Jugend-hackt-Halle.gif" >}}
 {{< /gallery >}}
 
 
@@ -246,12 +246,3 @@ Wir freuen uns, dass wir mit Jugend hackt das Eigenbaukombinat wieder für ein W
 
 
 Für die finanzielle Unterstützung bedanken wir uns bei unserem Kooperationspartner, der Landeszentrale für politische Bildung, bei unseren Fördermittelgebern, dem Ministerium für Wirtschaft, Wissenschaft und Digitalisierung in Sachsen-Anhalt und der Stadt Halle sowie bei unseren Sponsoren, der Firma Papenburg, der Piratenpartei Sachsen-Anhalt und dem Python Software Verband. Vielen Dank!
-
-
-
-
-
-{{< gallery caption-effect="fade" >}}
-{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/11/Moderation-Sonntag-Abschlusspräsentation.jpg" >}}
-{{< /gallery >}}
-
