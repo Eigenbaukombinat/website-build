@@ -14,14 +14,14 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 enableRobotsTXT = "true"
 
-paginate = 5
+pagination.pagerSize = 5
 
 [markup.goldmark.renderer]
 unsafe= true
 
 [Params]
   subtitle = "Makespace, Hackspace und Mitmachwerkstatt in Halle (Saale)"
-  mainSections = ["about", "post","posts"]
+  mainSections = ["about", "post", "posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "2 January 2006"
@@ -78,11 +78,12 @@ unsafe= true
 [languages]
   [languages.de]
     languageName = "Deutsch"
-    weight = "1"
+    weight = 1
   [languages.en]
     languageName = "English"
-    weight = "2"
-    subtitle = "Makespace, Hackspace and workshop in Halle (Saale)"
+    weight = 2
+    [languages.en.params]
+      subtitle = "Makespace, Hackspace and workshop in Halle (Saale)"
 [[languages.en.menu.main]]
     name = "post"
     url = "post/"
@@ -183,7 +184,7 @@ unsafe= true
 
 
 
-[Author]
+[Params.author]
   name = "EBK Impressum"
   website = "https://eigenbaukombinat.de/impressum"
   email = "kontakt@eigenbaukombinat.de"
