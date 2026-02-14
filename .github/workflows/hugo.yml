@@ -15,7 +15,7 @@ jobs:
     steps:
       - name: Download Hugo CLI
         run: |
-          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.deb
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-amd64.deb
       - name: Verify Hugo checksum
         run: echo "${HUGO_CHECKSUM}  ${{ runner.temp }}/hugo.deb" | sha256sum --check
       - name: Install Hugo
