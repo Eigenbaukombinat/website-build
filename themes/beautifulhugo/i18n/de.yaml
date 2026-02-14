@@ -2,11 +2,11 @@
 - id: dateFormat
   translation: "02.01.2006"
 - id: shortdateFormat
-  translation: "2 Jan, 2006 15:04:05"
+  translation: "02. Jan. 2006 15:04:05 Uhr"
 - id: postedOnDate
   translation: "Gepostet am {{ . }}"
 - id: lastModified
-  translation: "(Zuletzt geändert am {{ . }})"
+  translation: "Zuletzt geändert am {{ . }}"
 - id: translationsLabel
   translation: "Andere Sprachen: "
 - id: translationsSeparator
@@ -22,7 +22,7 @@
 - id: nextPost
   translation: "Nächster Post"
 - id: readTime
-  translation: "Minuten"
+  translation: "min"
 - id: words
   translation: "Wörter"
 
@@ -33,7 +33,7 @@
 
 # Footer
 - id: poweredBy # Accepts HTML
-  translation: '<a href="https://gohugo.io">Hugo v{{ .Site.Hugo.Version }}</a> angetrieben &nbsp;&bull;&nbsp; Theme <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> angepasst von <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>'
+  translation: 'Läuft mit <a href="https://gohugo.io">Hugo v{{ .Site.Hugo.Version }}</a> &nbsp;&bull;&nbsp; Theme <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> angepasst von <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>'
 
 # Navigation
 - id: toggleNavigation
@@ -59,9 +59,9 @@
 - id: yourName
   translation: "Ihr Name"
 - id: yourEmail
-  translation: "Ihre Emailadresse"
+  translation: "Ihre E-Mail-Adresse"
 - id: yourWebsite
-  translation: "Ihre Website"
+  translation: "Ihre Webseite"
 
 # Delayed Disqus
 - id: show
