@@ -12,7 +12,7 @@ tags:
 - Wolle
 ---
 
-Bei [Drops Wolle](https://www.garnstudio.com/lang/de/visgarn.php?garn=Paris) gibt es jetzt aus alten Jeans recycelte Wolle. Die Farben fand ich so schön, dass ich mir gleich ein Projekt dazu ausdachte: Topflappen. <!-- more -->
+Bei [Drops Wolle](https://www.garnstudio.com/yarn.php?show=drops-paris&cid=9) gibt es jetzt aus alten Jeans recycelte Wolle. Die Farben fand ich so schön, dass ich mir gleich ein Projekt dazu ausdachte: Topflappen. <!-- more -->
 Das klingt erstmal ganz schön langweilig, aber die kann man immer gebrauchen und auch gut verschenken. Zwar ist Topflappen häkeln oder stricken eine ganz einfache Sache, damit man sie aber auch wirklich benutzen kann, muss man zwei Dinge beachten:
 
 1. Man darf keine Kunstwolle, wie Acryl oder Polyester verwenden, weil sie bei hohen Temperaturen schmelzen.

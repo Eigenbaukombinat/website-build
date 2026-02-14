@@ -70,7 +70,7 @@ Die Teilnehmenden haben sich bei der Ideenfindung an unserem Jahresmotto „Mit 
 
 
 
-Die Gruppe „[PlantGO](https://gitlab.com/jugendhackt/plant-go)“ entwickelte ein Multiplayer-Spiel, das die Menschen in Halle zum Gießen der Stadtbäume anregen soll, wenn diese in Dürreperioden zu vertrocknen drohen. Ähnlich wie bei PokemonGo kann die Spielerin Bäume sammeln, die sie schon gegossen hat. Dafür werden auf einer Karte alle Stadtbäume und Wasserquellen angezeigt. User können eintragen, ob sie einen Baum gegossen haben und zum Beispiel auch ein Feedback an das Grünflächenamt geben. Die Daten-Grundlage für das Projekt lieferte das [Open Data Portal](https://www.halle.de/de/Verwaltung/Online-Angebote/Offene-Verwaltungsdaten/Einfuehrung/index.aspx) und Baumkataster der Stadt Halle.
+Die Gruppe „[PlantGO](https://gitlab.com/jugendhackt/plant-go)“ entwickelte ein Multiplayer-Spiel, das die Menschen in Halle zum Gießen der Stadtbäume anregen soll, wenn diese in Dürreperioden zu vertrocknen drohen. Ähnlich wie bei PokemonGo kann die Spielerin Bäume sammeln, die sie schon gegossen hat. Dafür werden auf einer Karte alle Stadtbäume und Wasserquellen angezeigt. User können eintragen, ob sie einen Baum gegossen haben und zum Beispiel auch ein Feedback an das Grünflächenamt geben. Die Daten-Grundlage für das Projekt lieferte das [Open Data Portal](https://halle.de/verwaltung-stadtrat/stadtverwaltung/online-angebote/open-data-portal) und Baumkataster der Stadt Halle.
 
 
 
