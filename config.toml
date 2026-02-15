@@ -3,7 +3,6 @@ DefaultContentLanguage = "de"
 #DefaultContentLanguage = "ja"
 title = "Eigenbau​kombinat"
 theme = "beautifulhugo"
-metaDataFormat = "yaml"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
@@ -14,10 +13,13 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 enableRobotsTXT = "true"
 
-pagination.pagerSize = 5
+[pagination]
+  pagerSize = 5
 
-[markup.goldmark.renderer]
-unsafe= true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe= true
 
 [Params]
   subtitle = "Makespace, Hackspace und Mitmachwerkstatt in Halle (Saale)"
@@ -84,69 +86,70 @@ unsafe= true
     weight = 2
     [languages.en.params]
       subtitle = "Makespace, Hackspace and workshop in Halle (Saale)"
-[[languages.en.menu.main]]
-    name = "post"
-    url = "post/"
-    weight = 1
-    identifier = "blog"
+    [languages.en.menus]
+      [[languages.en.menus.main]]
+        name = "post"
+        url = "post/"
+        weight = 1
+        identifier = "blog"
 
-[[languages.en.menu.main]]
-    name = "post"
-    url = "post/"
-    weight = 1
-    parent = "blog"
+      [[languages.en.menus.main]]
+        name = "post"
+        url = "post/"
+        weight = 1
+        parent = "blog"
 
-[[languages.en.menu.main]]
-    name = "archiv"
-    url = "archiv/"
-    weight = 2
-    parent = "blog"
+      [[languages.en.menus.main]]
+        name = "archiv"
+        url = "archiv/"
+        weight = 2
+        parent = "blog"
 
-[[languages.en.menu.main]]
-    name = "category"
-    url = "categories/"
-    weight = 3
-    parent = "blog"
+      [[languages.en.menus.main]]
+        name = "category"
+        url = "categories/"
+        weight = 3
+        parent = "blog"
 
-[[languages.en.menu.main]]
-    name = "tags"
-    url = "tags/"
-    weight = 4
-    parent = "blog"
+      [[languages.en.menus.main]]
+        name = "tags"
+        url = "tags/"
+        weight = 4
+        parent = "blog"
 
-[[languages.en.menu.main]]
-    name = "search"
-    url = "en/page/search/"
-    weight = 5
-    parent = "blog"
+      [[languages.en.menus.main]]
+        name = "search"
+        url = "en/page/search/"
+        weight = 5
+        parent = "blog"
 
-[[languages.en.menu.main]]
-    name = "events"
-    url = "our-events/"
-    weight = 2
+      [[languages.en.menus.main]]
+        name = "events"
+        url = "our-events/"
+        weight = 2
 
-[[languages.en.menu.main]]
-    name = "about"
-    weight = 3
-    identifier = "uberuns"
+      [[languages.en.menus.main]]
+        name = "about"
+        weight = 3
+        identifier = "uberuns"
 
-[[languages.en.menu.main]]
-    name = "about us"
-    url = "about-us/"
-    weight = 3
-    parent = "uberuns"
+      [[languages.en.menus.main]]
+        name = "about us"
+        url = "about-us/"
+        weight = 3
+        parent = "uberuns"
 
-[[languages.en.menu.main]]
-    name = "Opening"
-    url = "opening/"
-    weight = 3
-    parent = "uberuns"
+      [[languages.en.menus.main]]
+        name = "Opening"
+        url = "opening/"
+        weight = 3
+        parent = "uberuns"
 
-[[languages.en.menu.main]]
-    name = "workshop"
-    url = "workshop/"
-    weight = 4
-    parent = "uberuns"
+      [[languages.en.menus.main]]
+        name = "workshop"
+        url = "workshop/"
+        weight = 4
+        parent = "uberuns"
     
 #[[languages.en.menu.main]]
 #    name = "matrix"
@@ -160,23 +163,23 @@ unsafe= true
 #    weight = 6
 #    parent = "uberuns"
 
-[[languages.en.menu.main]]
-    name = "join us"
-    url = "join-us/"
-    weight = 7
-    parent = "uberuns"
+      [[languages.en.menus.main]]
+        name = "join us"
+        url = "join-us/"
+        weight = 7
+        parent = "uberuns"
 
-[[languages.en.menu.main]]
-    name = "directions"
-    url = "directions/"
-    weight = 8
-    parent = "uberuns"
+      [[languages.en.menus.main]]
+        name = "directions"
+        url = "directions/"
+        weight = 8
+        parent = "uberuns"
 
-[[languages.en.menu.main]]
-    name = "Impressum"
-    url = "impressum/"
-    weight = 9
-    parent = "uberuns"
+      [[languages.en.menus.main]]
+        name = "Impressum"
+        url = "impressum/"
+        weight = 9
+        parent = "uberuns"
 
 
 #
@@ -214,120 +217,121 @@ unsafe= true
 #  weibo = "username"
 #  slack = "username"
 
-[[menu.main]]
+[menus]
+  [[menus.main]]
     name = "Blog"
     url = "post/"
     weight = 1
     identifier = "blog"
 
-[[menu.main]]
+  [[menus.main]]
     name = "Blog"
     url = "post/"
     weight = 1
     parent = "blog"
 
-[[menu.main]]
+  [[menus.main]]
     name = "Archiv"
     url = "archiv/"
     weight = 2
     parent = "blog"
 
-[[menu.main]]
+  [[menus.main]]
     name = "Kategorien"
     url = "categories/"
     weight = 3
     parent = "blog"
 
-[[menu.main]]
+  [[menus.main]]
     name = "Tags"
     url = "tags/"
     weight = 4
     parent = "blog"
 
-[[menu.main]]
+  [[menus.main]]
     name = "Suche"
     url = "search/"
     weight = 5
     parent = "blog"
 
-[[menu.main]]
+  [[menus.main]]
     name = "Veranstaltung"
     url = "/unsere-veranstaltungen/"
     weight = 2
 
-[[menu.main]]
+  [[menus.main]]
     name = "Über uns"
     weight = 3
     identifier = "uberuns"
 
-[[menu.main]]
+  [[menus.main]]
     name = "Über uns"
     url = "uber-uns/"
     weight = 3
     parent = "uberuns"
     
-[[menu.main]]
+  [[menus.main]]
     name = "Öffnungszeiten"
     url = "oeffnungszeiten/"
     weight = 3
     parent = "uberuns"
 
-[[menu.main]]
+  [[menus.main]]
     name = "Werkstatt"
     url = "/werkstatt/"
     weight = 4
     parent = "uberuns"
    
-[[menu.main]]
+  [[menus.main]]
     name = "Keramik Workshops"
     url = "/keramikworkshops/"
     weight = 1
     parent = "projekte"
     
-[[menu.main]]
+  [[menus.main]]
     name = "Jugendworkshops"
     url = "/jugendworkshops/"
     weight = 2
     parent = "projekte"
     
-[[menu.main]]
+  [[menus.main]]
     name = "Junghacker"
     url = "/junghacker/"
     weight = 3
     parent = "projekte"
 
-[[menu.main]]
+  [[menus.main]]
     name = "HaGeWe"
     url = "/hagewe/"
     weight = 4
     parent = "projekte"
     
 
-[[menu.main]]
+  [[menus.main]]
     name = "Matrix"
     url = "/unser-neuer-chat-und-nachrichtenserver/"
     weight = 5
     parent = "uberuns"
 
-[[menu.main]]
+  [[menus.main]]
     name = "status"
     url = "extstatus/"
     weight = 6
     parent = "uberuns"
 
-[[menu.main]]
+  [[menus.main]]
     name = "Mitmachen"
     url = "mitmachen/"
     weight = 7
     parent = "uberuns"
 
-[[menu.main]]
+  [[menus.main]]
     name = "Anfahrt"
     url = "anfahrt/"
     weight = 8
     parent = "uberuns"
 
-[[menu.main]]
+  [[menus.main]]
     name = "Impressum"
     url = "impressum/"
     weight = 9
