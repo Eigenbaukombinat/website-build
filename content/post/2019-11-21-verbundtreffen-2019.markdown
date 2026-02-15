@@ -64,7 +64,7 @@ Aktuell sind 168 Werkstätten Mitglied im Verbund sowie diverse Reparatur-Initia
 
 
 
-Ort unserer 3-tägigen Zusammenkunft war diesmal das [Sandershaus in Kassel,](https://www.sandershaus.de/en/) das Hostel, Flüchtingsunterkunft, Tagungsräume, Bar und Werkstatt in EINEM vereint. Danke an die Crew, es war toll bei Euch!
+Ort unserer 3-tägigen Zusammenkunft war diesmal das [Sandershaus in Kassel,](https://www.sandershaus.de/) das Hostel, Flüchtingsunterkunft, Tagungsräume, Bar und Werkstatt in EINEM vereint. Danke an die Crew, es war toll bei Euch!
 
 
 

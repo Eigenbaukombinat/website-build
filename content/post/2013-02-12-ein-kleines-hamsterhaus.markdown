@@ -26,8 +26,8 @@ Die Abmessungen des Daches werden in dem neuen Heim etwa 13 x 10 cm betragen, da
 ](/wp-content/uploads/2013/02/FabianLentz-Qcad-Hamsterhaus.png)
 
 
-Im folgendem Bild sieht man die schon auf Tischkreissäge und Kappsäge zugeschnittenen Einzelteile. Auch das 40mm Eingangsloch wurde bereits mit einem entsprechenden Forstnerbohrer gebohrt.[![hamsterhaus_einzelteile](https://kellerautomat.com/ebkwordpress/wp-content/uploads/2013/01/hamsterhaus_einzelteile-300x281.jpg)
-](https://kellerautomat.com/ebkwordpress/wp-content/uploads/2013/01/hamsterhaus_einzelteile.jpg)
+Im folgendem Bild sieht man die schon auf Tischkreissäge und Kappsäge zugeschnittenen Einzelteile. Auch das 40mm Eingangsloch wurde bereits mit einem entsprechenden Forstnerbohrer gebohrt.[![hamsterhaus_einzelteile](/wp-content/uploads/2013/01/hamsterhaus_einzelteile-300x281.jpg)
+](/wp-content/uploads/2013/01/hamsterhaus_einzelteile.jpg)
 
 
 Als nächstes werden die Oberflächen mit Schleifpapier geschliffen und die Kanten leicht abgerundet, damit das Holz nicht splittert. Auf einen Anstrich mit Lack wird der Einfachheit verzichtet. Dann geht es ans Zusammenleimen:

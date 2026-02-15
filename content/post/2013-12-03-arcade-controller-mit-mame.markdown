@@ -132,7 +132,7 @@ Hinweis: Da ein Controller normalerweise über keine Tasten für ENTER, ESC oder
      START1 + UNTEN  == PAUSE
 
 
-Die komplette Aufstellung der Tastenkürzel für die I-PAC-Platine findet ihr auch [auf der Webseite von Ultimarc](https://www.ultimarc.com/ipac2.html).
+Die komplette Aufstellung der Tastenkürzel für die I-PAC-Platine findet ihr auch [auf der Webseite von Ultimarc](https://www.ultimarc.com/control-interfaces/i-pacs/i-pac2/).
 
 
 ### ERGEBNIS

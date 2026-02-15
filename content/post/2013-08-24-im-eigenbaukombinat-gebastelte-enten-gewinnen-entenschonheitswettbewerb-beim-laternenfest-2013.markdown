@@ -15,7 +15,7 @@ tags:
 - Schnappschüsse
 ---
 
-In den letzten 4 Wochen sind im Eigenbaukombinat drei Enten für den Entenschönheitswettbewerb auf dem Laternenfest 2013 entstanden. (Mehr Infos dazu auf der [Veranstalterseite](https://rotary-entenrennen.de/schoenheitswettbewerb.htm)).
+In den letzten 4 Wochen sind im Eigenbaukombinat drei Enten für den Entenschönheitswettbewerb auf dem Laternenfest 2013 entstanden. (Mehr Infos dazu auf der [Veranstalterseite](https://rotary-entenrennen.de/startseite-entenrennen/)).
 
 Beim Bau der Enten kamen viele unserer Maschinen (3D-Drucker, CNC-Fräse, Nähmaschinen, ...) zum Einsatz. Die Arbeit hat sich gelohnt! Steffi konnte sich mit ihrer Ente "Haentel" den ersten Platz sichern. Dicht dahinter ihre glitzernde und LED-beleuchtete Ente in der Kiste auf Platz 3. Matthias ist mit seiner Chrom-Ente auf Platz 19 gelandet.
 
