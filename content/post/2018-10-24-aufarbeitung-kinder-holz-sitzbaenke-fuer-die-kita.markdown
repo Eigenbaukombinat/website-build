@@ -10,7 +10,7 @@ tags:
 - Aufarbeitung
 - Holzbänke
 - Holzsitzbänke
-- Kinder- Sitzbank
+- Kinder-Sitzbank
 - Restauration
 ---
 
