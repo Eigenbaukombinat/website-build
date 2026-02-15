@@ -28,7 +28,7 @@ damit Ihr grob nen Überblick habt was wir schon wissen, hier das Update mit meh
   * 17 Uhr Planungstreffen ChaosZeltZone25
   * 19 Uhr gemeinsam grillen
 * Sonntag 2025-04-13: 
-  * 13 Uhr gemeinsamses Mittagessen
+  * 13 Uhr gemeinsames Mittagessen
   * 14 Uhr gemeinsames aufräumen
 
 Zum T-Shirts bedrucken haben wir nahezu Rund um die Uhr jemanden zum Siebdrucken vor Ort. Dazu könnt ihr auch gern eigene Textilien mitbringen. Die Tour zum Rechenwerk startet um 21 Uhr am Infodesk und ist auf 10 Personen begrenzt.  

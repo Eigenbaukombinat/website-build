@@ -26,7 +26,7 @@ Aktuell gibt es im Eigenbaukombinat auf ca. 700m² folgende Möglichkeiten:
   * Der **AudioVideo**-Bereich hat Hintergründe, LED-Videodauerlicht, eine 4k Kamera und einen passenden Schnittrechner zu bieten. Auch können wir hier Audio produzieren und mit verschiedenen elektronischen Klavieren und Synthesizern musizieren.
   * Die **Dunkelkammer** hat alles, was man zum Entwickeln von schwarz-weißen Analogfotos braucht. Diverse Belichter und Fotopapier aus verschiedenen Jahrzehnten laden zum Experimentieren ein!
   * Im Bereich **Modellbau** bieten wir unter anderem zwei Lasercutter und eine Lackierkabine (gerade im Umbau).
-  * In der **Bibliothek** befinden sich intessante Bücher und Zeitschriften zu eigenbaukombinatsrelevanten Themen, z.B. Holzbearbeitung, Handarbeiten im Allgemeinen oder Programmierung. Auch sind dort unsere Ausgaben der MAKE! zu finden.
+  * In der **Bibliothek** befinden sich interessante Bücher und Zeitschriften zu eigenbaukombinatsrelevanten Themen, z.B. Holzbearbeitung, Handarbeiten im Allgemeinen oder Programmierung. Auch sind dort unsere Ausgaben der MAKE! zu finden.
   * Der **Garten** ist neben dem **Sozialraum & Küche** ein zentrales Element zum Austausch und bietet nahezu unendliche Möglichkeiten für Veranstaltungen. Auch wird dort regelmäßig die** Schmiede** aufgebaut, wenn es um Heißverformung von Stahl geht.
   * In unserem **Keramikbereich** geht es um Tonverformung. Dank Leihgabe einer großen Töpferscheibe und einem dank Fördermitteln eigens angeschafften Brennofen können wir jetzt damit loslegen.
   * In der[** Siebdruck-Werkstatt**](/neuer-bereich-siebdruckwerkstatt/) steht eine umfangreiche Ausstattung zur Verfügung, um eigene Motivideen vom blanken Sieb bis zum fertigen Shirt umzusetzen.

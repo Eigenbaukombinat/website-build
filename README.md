@@ -22,7 +22,7 @@ Den Editor könnt ihr mit dem Druck auf die Punkt-Taste[.] oder über den [Link]
     1. Öffne den Ordner `content` -> `posts`
     1. erstelle eine neue Datei mit dem vorangestellten Datum zB. `2023-02-02-Mein-erster-Blogpost.markdown`
 2. Schreiben des Blogposts
-    1. Die neu erstellte Datei muss am anfang der Datei folgenden Inhalt haben.
+    1. Die neu erstellte Datei muss am Anfang der Datei folgenden Inhalt haben.
         1. Beispiel:
             ```
             ---
@@ -52,7 +52,7 @@ Den Editor könnt ihr mit dem Druck auf die Punkt-Taste[.] oder über den [Link]
 
     Solltest du noch nicht zufrieden sein kannst du jederzeit Änderungen machen und nochmal speichern.
 
-    Aktuell musst du dann noch jemanden bescheid sagen damit es auch auf der Webseite erscheint.
+    Aktuell musst du dann noch jemanden Bescheid sagen damit es auch auf der Webseite erscheint.
 
 
 ### Deployment
