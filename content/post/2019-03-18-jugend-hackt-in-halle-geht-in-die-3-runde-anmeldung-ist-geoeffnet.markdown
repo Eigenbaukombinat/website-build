@@ -8,6 +8,7 @@ url: /jugend-hackt-in-halle-geht-in-die-3-runde-anmeldung-ist-geoeffnet/
 categories:
 - JUNGHACKER
 - Veranstaltungen
+- Jugend hackt
 - Verein
 - Wissen
 ---

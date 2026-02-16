@@ -13,9 +13,9 @@ categories:
 
 ### {JUNGHACKER} – Programmieren für Kids
 
-Die Veranstaltungsreihe "Junghacker" oder auch anfangs "{JUNGHACKER} – Programmieren für Kids" ist ein Projekt im Eigenabukombinat Halle e.V. .
+Die Veranstaltungsreihe "Junghacker" oder auch anfangs "{JUNGHACKER} – Programmieren für Kids" ist ein Projekt im Eigenbaukombinat Halle e.V. .
 
-Das Gemeinsachftlich gegründete Projekt durch Hacker *innen im Umfeld von Terminal.21 und des Hackspaces im Eigenbaukombinat richtet sich an Kids zwischen zehn und achtzehn Jahren, die kreativen Umgang mit Technik suchen und dabei durch Mentoren unsterstützt werden.
+Das gemeinschaftlich gegründete Projekt durch Hacker*innen im Umfeld von Terminal.21 und des Hackspaces im Eigenbaukombinat richtet sich an Kids zwischen zehn und achtzehn Jahren, die kreativen Umgang mit Technik suchen und dabei durch Mentoren unsterstützt werden.
 
 Seit Oktober 2016 gibt es nahezu jeden vierten Samstag im Monat die Möglichkeit sich im Rahmen des Junghackertages in den Räumlichkeiten des Eigenbaukombinat Halle e.V. auszutoben. So wird seit 2016 Wissen verteilt, Hardware zerlegt oder auch einfach nur Schwarminteligenz genutzt um Alltagsprobleme zu lösen. Getreu der digitalen Teilhabe werden alle drei Bereiche wie Befähigung, Beteiligung und Transparenz gemeinsam ausgestaltet.
 

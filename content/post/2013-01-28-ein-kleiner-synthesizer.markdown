@@ -14,4 +14,4 @@ tags:
 
 Ich habe noch ein kleines Midikeyboard herumliegen und hab überlegt, ob man daraus mit einem Arduino nicht "mal eben schnell" einen kleinen Synthesizer bauen könnte.
 
-Gefunden hab ich dazu diesen Link: [https://playground.arduino.cc/Main/ArduinoSynth](https://playground.arduino.cc/Main/ArduinoSynth)
+Gefunden hab ich dazu diesen Link: [https://playground.arduino.cc/Main/ArduinoSynth](https://playground.arduino.cc/Main/ArduinoSynth/)

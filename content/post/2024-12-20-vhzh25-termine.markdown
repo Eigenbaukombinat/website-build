@@ -21,7 +21,7 @@ Wir haben eine Förderung von [Revierpionier](https://strukturwandel.sachsen-anh
 
 ### 17.05.2025: Spiele programmieren. In 3D!
 
-Mit CoSpaces wollen wir abtauchen in die wunderbare Welt der virtuellen Realtität und gemeinsam ein Spiel erfinden und programmieren. Keine Sorge, das klingt komplizierter als es ist. Henrike wird euch und uns dabei begleiten.
+Mit CoSpaces wollen wir abtauchen in die wunderbare Welt der virtuellen Realität und gemeinsam ein Spiel erfinden und programmieren. Keine Sorge, das klingt komplizierter als es ist. Henrike wird euch und uns dabei begleiten.
 
 <ul class="pager main-pager">
               <li class="">

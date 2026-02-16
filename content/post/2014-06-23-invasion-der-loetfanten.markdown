@@ -19,8 +19,6 @@ Heute mal ein kurzer Baubericht für eine "Dritte Hand", ein Hilfsmittel um beim
 
 Da die Klammern wie 3-Beinige Elefanten aussehen, haben wir sie liebevoll "Lötfanten" getauft. Die Material- und Fräskosten für ein Set belaufen sich auf ca. 5 Euro.
 
-**UPDATE** Aufgrund einiger Nachfragen bieten wir die Lötfanten nun bei [fairmondo.de](https://www.fairmondo.de/articles/lotfanten-set) zum Verkauf an.
-
 Der Erlös kommt vollständig unserem Verein zu Gute.
 
 [caption id="attachment_7642" align="aligncenter" width="898"][![Bildschirmfoto 2014-06-23 um 00.41.22](/wp-content/uploads/2014/06/Bildschirmfoto-2014-06-23-um-00.41.22.png)

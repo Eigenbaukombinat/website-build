@@ -21,7 +21,7 @@ Danilo Arlt
 * studierter Biologe
 * eifrig, quirlig und mitten drin
 * IT, Selbständigkeit, Ausbilder
-* protokoliert gerne
+* protokolliert gerne
   
 Uwe Flaig
   

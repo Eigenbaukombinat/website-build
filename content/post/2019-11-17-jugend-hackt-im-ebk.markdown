@@ -43,11 +43,10 @@ Unterstützt wurden die Teilnehmerinnen und Teilnehmer von 15 Mentorinnen und Me
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/11/Abschlussbericht_Jugend-hackt-Halle-2019-1-.jpg" >}}
+{{< figure link="/wp-content/uploads/2019/10/Jugend-hackt-Halle-2019-1-1836x1224.jpg" >}}
 {{< /gallery >}}
 
-Brainstorming am Freitag (CC BY 2.0, Jugend hackt, Foto: Manuel Schmuck)
-
+Brainstorming am Freitag (CC-BY 4.0 Jugend hackt, Foto: Manuel Schmuck)
 
 
 
@@ -70,7 +69,7 @@ Die Teilnehmenden haben sich bei der Ideenfindung an unserem Jahresmotto „Mit 
 
 
 
-Die Gruppe „[PlantGO](https://gitlab.com/jugendhackt/plant-go)“ entwickelte ein Multiplayer-Spiel, das die Menschen in Halle zum Gießen der Stadtbäume anregen soll, wenn diese in Dürreperioden zu vertrocknen drohen. Ähnlich wie bei PokemonGo kann die Spielerin Bäume sammeln, die sie schon gegossen hat. Dafür werden auf einer Karte alle Stadtbäume und Wasserquellen angezeigt. User können eintragen, ob sie einen Baum gegossen haben und zum Beispiel auch ein Feedback an das Grünflächenamt geben. Die Daten-Grundlage für das Projekt lieferte das [Open Data Portal](https://www.halle.de/de/Verwaltung/Online-Angebote/Offene-Verwaltungsdaten/Einfuehrung/index.aspx) und Baumkataster der Stadt Halle.
+Die Gruppe „[PlantGO](https://gitlab.com/jugendhackt/plant-go)“ entwickelte ein Multiplayer-Spiel, das die Menschen in Halle zum Gießen der Stadtbäume anregen soll, wenn diese in Dürreperioden zu vertrocknen drohen. Ähnlich wie bei PokemonGo kann die Spielerin Bäume sammeln, die sie schon gegossen hat. Dafür werden auf einer Karte alle Stadtbäume und Wasserquellen angezeigt. User können eintragen, ob sie einen Baum gegossen haben und zum Beispiel auch ein Feedback an das Grünflächenamt geben. Die Daten-Grundlage für das Projekt lieferte das [Open Data Portal](https://halle.de/verwaltung-stadtrat/stadtverwaltung/online-angebote/open-data-portal) und Baumkataster der Stadt Halle.
 
 
 
@@ -79,7 +78,7 @@ Die Gruppe „[PlantGO](https://gitlab.com/jugendhackt/plant-go)“ entwickelte 
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/11/Abschlussbericht_Jugend-hackt-Halle-2019-5-.jpg" >}}
+{{< figure link="/wp-content/uploads/2019/10/Jugend-hackt-Halle-2019-5-1430x953.jpg" >}}
 {{< /gallery >}}
 Projektgruppe ChangeBox (CC BY 4.0, Jugend hackt, Foto: Manuel Schmuck)
 
@@ -114,9 +113,9 @@ Darüber hinaus haben die Jugendlichen viele Ideen zu weiteren Themen umgesetzt.
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/11/Abschlussbericht_Jugend-hackt-Halle-2019-2-.jpg" >}}
+{{< figure link="/wp-content/uploads/2019/10/Jugend-hackt-Halle-2019-2-1430x953.jpg" >}}
 {{< /gallery >}}
-Projektgruppe Scook (CC BY 2.0, Jugend hackt, Foto: Manuel Schmuck)
+Projektgruppe Scook (CC-BY 4.0 Jugend hackt, Foto: Manuel Schmuck)
 
 
 
@@ -141,9 +140,9 @@ Mit dem [Sticker-Verdichter](https://www.youtube.com/watch?v=YD3Sp2Qo4qI&list=PL
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/11/Abschlussbericht_Jugend-hackt-Halle-2019-4-.jpg" >}}
+{{< figure link="/wp-content/uploads/2019/10/Jugend-hackt-Halle-2019-4-1836x1224.jpg" >}}
 {{< /gallery >}}
-Projektgruppe Sticker-Verdichter (CC BY 2.0, Jugend hackt, Foto: Manuel Schmuck)
+Projektgruppe Sticker-Verdichter (CC-BY 4.0 Jugend hackt, Foto: Manuel Schmuck)
 
 
 
@@ -238,7 +237,7 @@ Wir freuen uns, dass wir mit Jugend hackt das Eigenbaukombinat wieder für ein W
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/11/Jugend-hackt-Halle.gif" >}}
+{{< figure link="/wp-content/uploads/2019/10/Jugend-hackt-Halle.gif" >}}
 {{< /gallery >}}
 
 
@@ -250,8 +249,8 @@ Für die finanzielle Unterstützung bedanken wir uns bei unserem Kooperationspar
 
 
 
-
 {{< gallery caption-effect="fade" >}}
-{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/11/Moderation-Sonntag-Abschlusspräsentation.jpg" >}}
+{{< figure link="/wp-content/uploads/2019/10/jh-abschluss.jpg" >}}
 {{< /gallery >}}
+CC-BY 4.0 Jugend hackt, Foto: Manuel Schmuck
 

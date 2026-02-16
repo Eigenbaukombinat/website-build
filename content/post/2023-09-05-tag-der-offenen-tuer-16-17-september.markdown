@@ -41,7 +41,7 @@ Folgende Bereiche warten auf Euch:
 * Dunkelkammer: Fotos selber ausbelichten
 * Handarbeit: nähen, stricken & spinnen
 * Sozialraum: feine Kurse & cool chillen
-* Audio+Video: Ton & Film selbet gemacht
+* Audio+Video: Ton & Film selbst gemacht
 * Keramik: auch mit Ton aber anders
 
 

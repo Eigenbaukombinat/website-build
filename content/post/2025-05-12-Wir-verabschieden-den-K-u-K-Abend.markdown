@@ -14,7 +14,7 @@ wir haben uns entschieden, den Koch- und Kennenlernabend nach *uff* bestimmt 10 
 
 Und das wollen wir nicht so sang- und klanglos passieren lassen, sondern mit euch gemeinsam beim Schnippeln, Reiben, Quirlen, Krümeln, Bruzeln und Kochen ins Gespräch kommen.
 
-Am 16. Mai möchten wir mit euch zunächst einen Ruccola-Tomaten-Salat genießen.
+Am 16. Mai möchten wir mit euch zunächst einen Rucola-Tomaten-Salat genießen.
 Im Hauptgang werden wir zusammen Kartoffelpuffer und Spargelgemüse zubereiten und essen.
 Mit einem Rhababerdbeer-Crumble (natürlich mit Vanillesoße!) wollen wir dann den Abend ausklingen lassen.
 
@@ -25,7 +25,7 @@ Wir starten wie immer um 19 Uhr. Bitte tragt euch bis zum 15. Mai [hier](https:/
 
 Wenn euch interessiert, wie es denn eigentlich zum Koch- und Kennenlernabend kam, dann lade ich euch herzlich ein zu einer 
 +.*Zeitreise*.+
-Damals™ als frlan und ich (horstiane) noch in Jena den Hackspace unsicher gemacht haben, gab es einen Abend, an dem wir uns eine Pizza oder so gemacht haben. Ein paar Stängel Ruccola und eine halbe Zwiebel waren noch übrig. Die Umstehenden Personen schauten uns mit großen Augen an und haben gefragt, was wir denn jetzt _damit_ machen würden.
+Damals™ als frlan und ich (horstiane) noch in Jena den Hackspace unsicher gemacht haben, gab es einen Abend, an dem wir uns eine Pizza oder so gemacht haben. Ein paar Stängel Rucola und eine halbe Zwiebel waren noch übrig. Die Umstehenden Personen schauten uns mit großen Augen an und haben gefragt, was wir denn jetzt _damit_ machen würden.
 Da wurde uns klar: hier besteht Nachhilfebedarf in Sachen „Kochen“. Und so ist der Koch- und Kennenlernabend entstanden. Regelmäßig haben wir gemeinsam geschnippelt und aus einfachen Zutaten leckere Sachen gekocht oder Fertigfutter gepimpt (ich muss dazu sagen, dass statistisch zu dem Zeitpunkt jede vierte Person in Jena Student*in war).
 Das Highlight war übrigens ein Thanks-Giving-Menü, das wir unter fachmännischer Anleitung unseres Halb-Amerikanischen Freundes Kevin zubereitet haben. So richtig mit Gubbel, Süßkartoffelstampf und dem ganzen Pi-Pa-Po…
 
