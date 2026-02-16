@@ -1,3 +1,4 @@
 [submodule "themes/beautifulhugo"]
 	path = themes/beautifulhugo
 	url = https://github.com/eigenbaukombinat/beautifulhugo.git
+	branch = ebk_legacy
