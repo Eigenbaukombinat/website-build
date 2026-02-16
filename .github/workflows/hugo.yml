@@ -22,6 +22,8 @@ jobs:
         run: sudo dpkg -i ${{ runner.temp }}/hugo.deb
       - name: Checkout
         uses: actions/checkout@v5
+  	with:
+	  submodules: recursive
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
