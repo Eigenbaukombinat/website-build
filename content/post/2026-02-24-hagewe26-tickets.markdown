@@ -28,8 +28,7 @@ Sichert euch jetzt noch schnell euer Ticket für ein Wochenendssamstag voller Ch
 Wir bieten Raum für ein ewiges Frühstück, das ihr mitgestaltet. Zusätzlich bieten wir am Samstagabend ne Grillrunde im Garten. Wird ja bestimmt gutes Wetter! Brötchen, Ketchup, Senf und Co. haben wir da. Grillgut bitte jeder selbst besorgen (Netto Discounter und E-Center vorhanden) um Nachhaltig damit umzugehen. Für einen getrennten Grill sorgen wir natürlich auch.
   
 Für die Koordination, wer was für die Allgemeinheit mitbringen möchte, gibt es ein Pad zur koordination:
-[https://pads.eigenbaukombinat.de/geekend2026-essen-und-workshops-und-dinge]
-(https://pads.eigenbaukombinat.de/geekend2026-essen-und-workshops-und-dinge)
+[https://pads.eigenbaukombinat.de/geekend2026-essen-und-workshops-und-dinge](https://pads.eigenbaukombinat.de/geekend2026-essen-und-workshops-und-dinge)
   
 In diesem Pad können auch Workshops und Vorträge eingetragen werden.
   
@@ -93,8 +92,4 @@ Bleibt auf dem Laufenden auf unserem [Blog](https://eigenbaukombinat.de/hagewe)!
 {{< figure link="/wp-content/uploads/2019/10/EBK_Grundriss.png" >}}
 {{< figure link="/wp-content/uploads/2018/08/Holzwerkstatt.jpg" >}}
 {{< figure link="/wp-content/uploads/2019/09/IMG_4220.jpg" >}}
-
-
-
-
 {{< /gallery >}}
