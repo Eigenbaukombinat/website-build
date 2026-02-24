@@ -13,7 +13,7 @@ categories:
 
 ### Halle Geekend Weekend
 
-Ein Geekend in Halle (Saale) im April 2025!
+Ein Geekend in Halle (Saale) seit April 2025!
 
 {{< gallery caption-effect="fade" >}}
 {{< figure link="/wp-content/uploads/2025/01/hagewe25.jpg" >}}
