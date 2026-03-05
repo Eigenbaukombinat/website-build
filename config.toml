@@ -2,7 +2,6 @@ baseurl = "https://eigenbaukombinat.de"
 DefaultContentLanguage = "de"
 #DefaultContentLanguage = "ja"
 title = "Eigenbau​kombinat"
-theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
@@ -18,6 +17,10 @@ paginate = 5
 
 [markup.goldmark.renderer]
 unsafe= true
+
+[module]
+  [[module.imports]]
+    path = 'github.com/Eigenbaukombinat/beautifulhugo'
 
 [Params]
   subtitle = "Makespace, Hackspace und Mitmachwerkstatt in Halle (Saale)"
