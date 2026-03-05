@@ -64,7 +64,7 @@ kontakt[@]eigenbaukombinat.de oder im Matrix unter #hagewe:matrix.eigenbaukombin
 Ihr habt Fragen? Dann schreibt uns im Matrix!
   
   
-**Wann?** 2026-03-21T10:00+02:00 (MESZ) bis 2026-03-22T01:00+02:00 (MESZ)  
+**Wann?** 2026-03-21T10:00+01:00 (MEZ) bis 2026-03-22T01:00+01:00 (MEZ)  
 **Wo?** Eigenbaukombinat Halle (Saale) e.V., [Landsbergerstr. 3, 06112 Halle (Saale)](https://www.openstreetmap.org/way/95664020)  
 [**Kontakt?!**](mailto:kontakt@eigenbaukombinat.de) oder im Matrix unter #Hackspace:matrix.eigenbaukombinat.de  
 Ihr habt Fragen? Dann schreibt uns im Matrix!
@@ -80,8 +80,7 @@ Ihr habt Fragen? Dann schreibt uns im Matrix!
 ---  
   
   
-D
-as Review aus dem letzten Jahr findet Ihr hier: https://eigenbaukombinat.de/hagewe25-review/    
+Das Review aus dem letzten Jahr findet Ihr hier: https://eigenbaukombinat.de/hagewe25-review/    
   
 Bleibt auf dem Laufenden auf unserem [Blog](https://eigenbaukombinat.de/hagewe)!
   
