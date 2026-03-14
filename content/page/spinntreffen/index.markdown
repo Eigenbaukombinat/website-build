@@ -14,7 +14,7 @@ url: /Spinntreffen/
 
 {{< /gallery >}}
 
-Für alle Wollebegeisterten mit oder ohne Spinnrad - wir treffen uns einmal im Monat zum ausprobieren und austauschen:
+Für alle Wollebegeisterten mit oder ohne Spinnrad - wir treffen uns unregelmäßig zum ausprobieren und austauschen:
 * Welche Spinnräder gibt es?
 * Welche Wolle?
 * Wie spinnt man und was kommt davor oder danach?
