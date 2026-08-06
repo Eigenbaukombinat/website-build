@@ -48,6 +48,7 @@ jobs:
           path: ./hugo-site
       - name: Install rclone
         run: |
+          sudo apt-get update
           sudo apt-get -y install rclone
       - name: "obfuscate password for rclone"
         run: |
