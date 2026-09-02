@@ -27,9 +27,9 @@ Aktuell gibt es im Eigenbaukombinat auf ca. 700m² folgende Möglichkeiten:
   * Die **Dunkelkammer** hat alles, was man zum Entwickeln von schwarz-weißen Analogfotos braucht. Diverse Belichter und Fotopapier aus verschiedenen Jahrzehnten laden zum Experimentieren ein!
   * Im Bereich **Modellbau** bieten wir unter anderem zwei Lasercutter und eine Lackierkabine (gerade im Umbau).
   * In der **Bibliothek** befinden sich interessante Bücher und Zeitschriften zu eigenbaukombinatsrelevanten Themen, z.B. Holzbearbeitung, Handarbeiten im Allgemeinen oder Programmierung. Auch sind dort unsere Ausgaben der MAKE! zu finden.
-  * Der **Garten** ist neben dem **Sozialraum & Küche** ein zentrales Element zum Austausch und bietet nahezu unendliche Möglichkeiten für Veranstaltungen. Auch wird dort regelmäßig die** Schmiede** aufgebaut, wenn es um Heißverformung von Stahl geht.
+  * Der **Garten** ist neben dem **Sozialraum & Küche** ein zentrales Element zum Austausch und bietet nahezu unendliche Möglichkeiten für Veranstaltungen. Auch wird dort regelmäßig die **Schmiede** aufgebaut, wenn es um Heißverformung von Stahl geht.
   * In unserem **Keramikbereich** geht es um Tonverformung. Dank Leihgabe einer großen Töpferscheibe und einem dank Fördermitteln eigens angeschafften Brennofen können wir jetzt damit loslegen.
-  * In der[** Siebdruck-Werkstatt**](/neuer-bereich-siebdruckwerkstatt/) steht eine umfangreiche Ausstattung zur Verfügung, um eigene Motivideen vom blanken Sieb bis zum fertigen Shirt umzusetzen.
+  * In der [**Siebdruck-Werkstatt**](/neuer-bereich-siebdruckwerkstatt/) steht eine umfangreiche Ausstattung zur Verfügung, um eigene Motivideen vom blanken Sieb bis zum fertigen Shirt umzusetzen.
   * **Kultur** ist ein neuer Bereich, dort werden künftig Lesungen, Vorträge und allgemein bereichs- und kombinatsübergreifend Themenabende erarbeitet und angeboten, die selbstverständlich für alle offen sind. Wer sich hier einbringen möchte ist herzlich eingeladen!
 
 
