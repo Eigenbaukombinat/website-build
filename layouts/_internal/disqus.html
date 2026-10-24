@@ -1,0 +1,15 @@
+{{- with site.Config.Services.Disqus.Shortname }}
+<div id="disqus_thread"></div>
+<script>
+  var disqus_config = function () {
+    this.page.url = {{ $.Permalink }};
+  };
+  (function () {
+    var script = document.createElement('script');
+    script.src = 'https://{{ . }}.disqus.com/embed.js';
+    script.setAttribute('data-timestamp', +new Date());
+    (document.head || document.body).appendChild(script);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the comments.</noscript>
+{{- end }}

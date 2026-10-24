@@ -8,7 +8,7 @@ url: /adventsspaziergang-am-10-12-2016/
 categories:
 - Veranstaltungen
 tags:
-- A.Y.C.P.
+- A.Y.C.P
 - Basteln
 - Fest
 - Freiimfelde
