@@ -34,7 +34,7 @@ Donnerstags können das Fotostudio und die Dunkelkammer durch Mitglieder und Nic
 Für Nicht-Mitglieder kostet die Benutzung 5,00 Eur für jeweils 3 h + den Materialverbrauch, Mitglieder zahlen nur den Verbrauch.
 
 Falls du noch keine Erfahrung hast und gern an einem Workshop teilnehmen möchtest, dann schreib uns einfach, welche Art von Workshop du dir wünschen würdest:  
-[veranstaltungen@eigenbaukombinat.de]("mailto:veranstaltungen@eigenbaukombinat.de)
+[veranstaltungen@eigenbaukombinat.de](mailto:veranstaltungen@eigenbaukombinat.de)
 
 
 ### ANMELDUNG

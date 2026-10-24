@@ -77,11 +77,11 @@ unsafe= true
 
 [languages]
   [languages.de]
-    languageName = "Deutsch"
-    weight = "1"
+    label = "Deutsch"
+    weight = 1
   [languages.en]
-    languageName = "English"
-    weight = "2"
+    label = "English"
+    weight = 2
     subtitle = "Makespace, Hackspace and workshop in Halle (Saale)"
 [[languages.en.menu.main]]
     name = "post"
@@ -183,7 +183,7 @@ unsafe= true
 
 
 
-[Author]
+[Params.author]
   name = "EBK Impressum"
   website = "https://eigenbaukombinat.de/impressum"
   email = "kontakt@eigenbaukombinat.de"
