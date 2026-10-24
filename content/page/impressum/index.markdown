@@ -21,7 +21,7 @@ Vertreten durch die einzeln vertretungsberechtigten Mitglieder des Vorstands:
 Anschrift wie oben  
 [kontakt@eigenbaukombinat.de](mailto:kontakt@eigenbaukombinat.de)
 
-[Aktuelle Satzung](/wp-content/uploads/2026/satzung_Oktober_2023-3.pdf) (Stand: April 2022)  
+[Aktuelle Satzung](/wp-content/uploads/2026/satzung_Oktober_2023-3.pdf) (Stand: Oktober 2023)  
 
 [Aktuelle Beitragsordnung](/wp-content/uploads/2024/01/Beitragsordnung_2023-01-31.pdf) (Januar 2024)
 
