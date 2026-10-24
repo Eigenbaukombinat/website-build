@@ -3,6 +3,7 @@ author: Tobias.Zeitler
 date: 2012-12-31 21:52:04+00:00
 draft: false
 title: join us
+description: "Join Eigenbaukombinat Halle e.V. to use the shared workshop, tools, and machines for your own projects alongside an active maker community."
 type: page
 url: /en/join-us/
 ---

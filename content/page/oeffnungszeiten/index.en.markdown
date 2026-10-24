@@ -3,6 +3,7 @@ author: jotilux
 date: 2013-05-20 13:00:00+00:00
 draft: false
 title: opening
+description: "Regular opening hours at Eigenbaukombinat in Halle (Saale): Wednesday 18:30–21:00 and Thursday and Friday 16:00–22:00. Check for changes before visiting."
 type: page
 url: opening/
 categories:

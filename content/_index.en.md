@@ -1,4 +1,11 @@
-###
+---
+title: "Eigenbaukombinat Halle: Makerspace and Workshop"
+description: "Visit the Eigenbaukombinat makerspace in Halle (Saale) for workshops, community events, shared tools and hands-on projects."
+---
+
+Eigenbaukombinat Halle e.V. is a community workshop and makerspace in Halle (Saale), Germany. Members share tools and machines, work on their own projects, and exchange practical skills.
+
+Visitors can meet us at public events. Find information about [opening hours](/en/opening/), [events](/en/our-events/), and [membership](/en/join-us/).
 <div id="space">Lade Daten...
   <noscript>
     <div id="spacestatus" style="font-size:100%;">

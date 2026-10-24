@@ -3,6 +3,7 @@ author: marian
 date: 2015-09-25 16:31:00+00:00
 draft: false
 title: directions
+description: "Find the Eigenbaukombinat at Landsberger Straße 3 in Halle (Saale), Germany, with directions from the nearby Freiimfelder Straße tram stop."
 type: page
 url: /en/directions/
 ---

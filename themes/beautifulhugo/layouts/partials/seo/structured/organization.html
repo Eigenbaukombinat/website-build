@@ -1,12 +1,16 @@
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Organization",
-  "name": "{{ .Site.Params.organizationName }}",
-  "url": "{{ .Site.BaseURL }}"
-  {{ with .Site.Params.socialProfiles }}, "sameAs": {{ . }}{{ end }}
-  {{ with .Site.Params.organizationLogo }}, "logo": "{{ . }}"{{ end }}
-  {{ with .Site.Params.organizationAddress }}, "address": "{{ . }}"{{ end }}
-  {{ with hugo.Data.organization.contacts.contactPoint }}, "contactPoint": {{ . }}{{ end }}
-}
-</script>
+{{- $organization := dict "@context" "https://schema.org" "@type" "Organization" "name" site.Params.organizationName "url" site.BaseURL -}}
+{{- with site.Params.socialProfiles -}}
+  {{- $organization = merge $organization (dict "sameAs" .) -}}
+{{- end -}}
+{{- with site.Params.organizationLogo -}}
+  {{- $organization = merge $organization (dict "logo" (. | absURL)) -}}
+{{- end -}}
+{{- with site.Params.organizationStreetAddress -}}
+  {{- $address := dict "@type" "PostalAddress" "streetAddress" . "postalCode" site.Params.organizationPostalCode "addressLocality" site.Params.organizationAddressLocality "addressCountry" site.Params.organizationAddressCountry -}}
+  {{- $organization = merge $organization (dict "address" $address) -}}
+{{- end -}}
+{{- with site.Params.organizationEmail -}}
+  {{- $contact := dict "@type" "ContactPoint" "contactType" "General inquiries" "email" . -}}
+  {{- $organization = merge $organization (dict "contactPoint" $contact) -}}
+{{- end }}
+<script type="application/ld+json">{{ $organization | jsonify | safeJS }}</script>

@@ -1,4 +1,11 @@
-###
+---
+title: "Eigenbaukombinat Halle: Offene Werkstatt in Halle (Saale)"
+description: "Offene Werkstatt und Makerspace in Halle (Saale): Werkzeuge, Maschinen, Workshops und offene Treffen im Eigenbaukombinat Halle e.V."
+---
+
+Das Eigenbaukombinat Halle e.V. ist eine offene Werkstatt und ein Makerspace in Halle (Saale). Mitglieder nutzen gemeinsam Werkzeuge und Maschinen, setzen eigene Projekte um und geben ihr Wissen weiter.
+
+Du möchtest uns kennenlernen? Besuche ein offenes Treffen oder informiere dich über [Öffnungszeiten](/oeffnungszeiten/), [Veranstaltungen](/unsere-veranstaltungen/) und [Mitgliedschaft](/mitmachen/).
 <div id="space">Lade Daten...
   <noscript>
     <div id="spacestatus" style="font-size:100%;">

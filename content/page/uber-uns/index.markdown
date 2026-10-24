@@ -3,6 +3,7 @@ author: Roberto
 date: 2013-02-17 13:56:44+00:00
 draft: false
 title: Über uns
+description: "Das Eigenbaukombinat Halle e.V. ist eine offene Werkstatt in Halle (Saale). Erfahre mehr über unsere Werkstatt, Projekte und Veranstaltungen."
 type: page
 url: /uber-uns/
 ---
