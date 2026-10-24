@@ -3,6 +3,7 @@ author: marian
 date: 2015-09-25 16:31:00+00:00
 draft: false
 title: Anfahrt
+description: "So findest du das Eigenbaukombinat in der Landsberger Straße 3 in Halle (Saale), mit Hinweisen zur Straßenbahnhaltestelle und zum Zugang."
 type: page
 url: /anfahrt/
 ---

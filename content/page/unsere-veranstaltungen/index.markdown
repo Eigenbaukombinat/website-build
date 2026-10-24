@@ -3,9 +3,12 @@ author: Andrea Thum
 date: 2015-09-20 12:02:53+00:00
 draft: false
 title: Unsere Veranstaltungen
+description: "Entdecke offene Treffen, Workshops und Veranstaltungen rund ums Selbermachen, Handwerk und Technik im Eigenbaukombinat in Halle (Saale)."
 type: page
 url: /unsere-veranstaltungen/
 ---
+
+Im Eigenbaukombinat finden regelmäßig offene Treffen, Workshops und Veranstaltungen rund ums Selbermachen, Handwerk und Technik statt. Aktuelle Termine und Anmeldedetails stehen im Kalender.
 
 <div id="termine">Lade Daten...
   <noscript><div id="spacestatus" style="font-size:100%;">

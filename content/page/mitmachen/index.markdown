@@ -3,6 +3,7 @@ author: Tobias.Zeitler
 date: 2012-12-31 21:52:04+00:00
 draft: false
 title: Mitmachen!
+description: "Werde Mitglied im Eigenbaukombinat Halle e.V. und nutze gemeinsam mit anderen die Werkstatt, Werkzeuge und Maschinen für eigene Projekte."
 type: page
 url: /mitmachen/
 ---

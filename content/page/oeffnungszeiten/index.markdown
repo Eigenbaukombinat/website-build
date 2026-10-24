@@ -3,6 +3,7 @@ author: jotilux
 date: 2013-05-20 13:00:00+00:00
 draft: false
 title: Öffnungszeiten
+description: "Öffnungszeiten des Eigenbaukombinats in Halle (Saale): Mittwoch 18:30–21 Uhr sowie Donnerstag und Freitag 16–22 Uhr. Änderungen vor dem Besuch prüfen."
 type: page
 url: /oeffnungszeiten/
 categories:

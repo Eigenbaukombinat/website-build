@@ -3,6 +3,7 @@ author: Roberto
 date: 2013-02-17 13:56:44+00:00
 draft: false
 title: about us
+description: "Learn about Eigenbaukombinat Halle e.V., a community workshop in Halle (Saale), its shared workshop, member projects, and public events."
 type: page
 url: /en/about-us/
 ---

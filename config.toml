@@ -36,6 +36,21 @@ unsafe= true
   showRelatedPosts = true
   hideAuthor = false
   selfHosted = true
+  organizationName = "Eigenbaukombinat Halle e.V."
+  organizationLogo = "img/avatar-icon.png"
+  organizationEmail = "kontakt@eigenbaukombinat.de"
+  organizationStreetAddress = "Landsberger Straße 3"
+  organizationPostalCode = "06112"
+  organizationAddressLocality = "Halle (Saale)"
+  organizationAddressCountry = "DE"
+  socialProfiles = [
+    "https://www.facebook.com/Eigenbaukombinat",
+    "https://github.com/eigenbaukombinat",
+    "https://www.instagram.com/ebkhalle",
+    "https://www.youtube.com/channel/UCsfpJrx2csVoioxv6xrCqJA",
+    "https://t.me/ebk_halle",
+    "https://chaos.social/@eigenbaukombinat"
+  ]
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 [[Params.bigimg]]
