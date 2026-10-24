@@ -21,7 +21,7 @@ represented by the individual representatives of the Board:
 inscription as above 
 [kontakt@eigenbaukombinat.de](mailto:kontakt@eigenbaukombinat.de)
 
-[Bylaws ("Satzung")](/wp-content/uploads/2026/satzung_Oktober_2023-3.pdf) (April 2022)  
+[Bylaws ("Satzung")](/wp-content/uploads/2026/satzung_Oktober_2023-3.pdf) (October 2023)  
 
 [Scale of contributions ("Beitragsordnung")](/wp-content/uploads/2024/01/Beitragsordnung_2023-01-31.pdf) (Januar 2024)
 
