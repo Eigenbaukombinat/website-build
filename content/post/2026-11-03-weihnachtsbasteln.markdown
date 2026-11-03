@@ -21,7 +21,7 @@ Weihnachtszauber im EBK – Gemeinsam kreativ werden! 🎄✨
 
 Die Weihnachtszeit steht vor der Tür und wir haben richtig Lust, gemeinsam mit euch kreativ zu werden! Deshalb planen wir im Eigenbaukombinat ein besonderes Weihnachts-Bastelevent, bei dem sich alles ums Selbermachen, Ausprobieren und Gestalten dreht.
 
-Am Sonntag, dem 29. November, von 10 bis 16 Uhr öffnen wir unsere Werkstätten für einen Tag voller kreativer Ideen und weihnachtlicher Stimmung.
+Am **Sonntag, dem 29. November**, von **10 bis 16 Uhr** öffnen wir unsere Werkstätten für einen Tag voller kreativer Ideen und weihnachtlicher Stimmung.
 
 Egal, ob du gerne mit den Händen arbeitest, Neues ausprobieren möchtest oder einfach Lust auf einen kreativen Sonntag hast – bei uns ist für alle etwas dabei! Von Handarbeit über Löten und 3D-Druck bis hin zu Keramik und Lasercutter gibt es jede Menge Möglichkeiten, selbst aktiv zu werden und eigene kleine Projekte umzusetzen.
 
@@ -33,5 +33,5 @@ Wir möchten euch zeigen, was es im EBK alles zu entdecken gibt und wie viel Spa
 
 Also schnapp dir deine Familie, Freundinnen oder Nachbarinnen und komm vorbei! Egal, ob allein oder in netter Begleitung – alle sind herzlich willkommen. Wir freuen uns auf einen gemütlichen, kreativen und kunterbunten Tag mit euch!
 
-Wir sehen uns am 29. November im EBK! 🎄
+Wir sehen uns am **29. November** im EBK! 🎄
 
