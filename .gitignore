@@ -1,5 +1,6 @@
 #**/wp-content/
-#public/
+public/
+.hugo_build.lock
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
